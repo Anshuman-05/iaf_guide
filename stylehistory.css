@@ -1,0 +1,132 @@
+body {
+    border: 10px solid #0071ab;
+    padding: 5px;
+}
+
+#logo {
+    border: 0px solid #BAE2EE;
+    margin-right: 0px;
+    margin-bottom: 10px;
+}
+
+.navbar-brand {
+    margin-right: 0px;
+    margin-top: 0px;
+}
+
+.nav-link {
+    font-size: 19px;
+    font-weight: 500;
+}
+
+.navbar {
+    font-size: 17px;
+    line-height: 20px;
+    padding-left: 5px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.navbar-light {
+    background-image: linear-gradient(to right, #BCD5E8, #225984);
+}
+
+h4, h5 {
+    margin-bottom: 35px;
+    color: #005197;
+}
+
+h2 {
+    color: #004079;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #BAE2EE;
+    border-right: 2px solid #BAE2EE;
+    width: 320px;
+    text-align: center;
+    box-shadow: 4px 4px 5px #888888;
+}
+
+#squadroncommanders {
+    height: 199.5px;
+    width: 250px;
+}
+
+#dfc, #spitfire, #vulteeb24, #canberra, #fairchild, #gnatshots, #railtracks, #flyingofficer, #mig23, #thunderbolts {
+    float: right;
+    margin-right: 0px;
+    margin-left: 20px;
+}
+
+img {
+    padding: 10px;
+    width: auto;
+}
+
+.logo {
+    padding-left: 0px;
+}
+
+.brand {
+    padding-left: 0px;
+    font-weight: 400;
+    opacity: 0.7;
+}
+
+.brand:hover {
+    opacity: 1;
+}
+
+figcaption {
+    padding-bottom: 5px;
+    width: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#middle {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+figure {
+    border: 1px solid black;
+    float: left;
+    text-align: center;
+    width: auto;
+    margin-right: 20px;
+}
+
+p {
+    font-size: 20px;
+    padding-bottom: 8px;
+    font-family: 'Abel', sans-serif;
+    line-height: 30px;
+    font-weight: 500;
+}
+
+.credit {
+    margin: 0px;
+    color: rgb(0, 0, 0, 0.3);
+    font-weight: 100;
+    font-size: 10px;
+    padding-bottom: 0px;
+}
+
+.last {
+    margin-bottom: 0px;
+}
+
+footer {
+    background-color: white;
+    height: 12px;
+    /* width: 150px; */
+    text-align: center;
+}
+
+.sidebarshit {
+    font-size: 18px;
+    font-weight: 600;
+}
